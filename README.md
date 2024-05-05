@@ -1,5 +1,5 @@
 # RPI-Pico-Interfacing-LCD
-This project uses the RPI Pico simulation. I will be controlling a Liquid Crystal Display (LCD) display using I2C. I will be utilizing RPI Pico SDK, create a counter stopwatch, and use an external LED or onboard LED to display the 1Hz blinking LED for every count. 
+This project uses the RPI Pico simulation. I controlled a Liquid Crystal Display (LCD) display using I2C. I utilized the RPI Pico SDK, created a counter stopwatch, and used an external LED to display the 1Hz blinking LED for every count. 
 
 ## Description
 This project contains a C++ program from the Raspberry Pi Pico that sets up an I2C pin and GPIO pins to create a second counter stopwatch. The counter will start counting when the button is pressed and stop when the button is pressed again and function as a toggle. The seconds will then display on the LCD and display the 1Hz blinking LED for every count. 
